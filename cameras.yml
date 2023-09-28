@@ -1,0 +1,12 @@
+[
+  {
+    label: "Нижняя",
+    uri: "rtsp://admin:M1234567@192.168.99.166:554/Streaming/Channels/101",
+    zoom: 0.3,
+  },
+  {
+    label: "Верхняя",
+    uri: "rtsp://admin:M1234567@192.168.99.149:554/Streaming/Channels/101",
+    zoom: 0.5,
+  },
+]
